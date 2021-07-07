@@ -30,3 +30,11 @@ Fettuccine Alfredo with slices of ribeye. Makes 2 servings.
 
 ## Fettucine Alfredo Instructions
 
+- Bring water to a boil and add salt to taste
+- Cook pasta until al dente 
+- Melt butter
+- Add heavy whipping cream
+- Add parmesean
+- Season with salt and pepper
+- Simmer until cheese is melted
+- Add pasta to alfredo sauce
