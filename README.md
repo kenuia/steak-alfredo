@@ -12,7 +12,7 @@ Fettuccine Alfredo with slices of ribeye. Makes 4 servings.
 
 ### Fettuccine Alfredo
 - 6 tbsp butter
-- 1 1/2- Heavy Whipping Cream
+- 1 1/2 - Heavy Whipping Cream
 - 12oz - fettucini pasta
 - 1 cup - grated parmesan cheese
 
@@ -27,6 +27,7 @@ Fettuccine Alfredo with slices of ribeye. Makes 4 servings.
 - Monitor steak until fully crusted and then flip (Usually around 3 1/2 minutes)
 - Once both sides are crusted, remove and check internal temp
 - If desired doneness isn't complete, slow cook in the oven at 280F until internal temperature is reached
+- Slice steak into bit sized pieces and remove the fat
 
 ## Fettucine Alfredo Instructions
 
