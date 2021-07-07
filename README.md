@@ -11,7 +11,7 @@ Fettuccine Alfredo with slices of ribeye. Makes 4 servings.
 - Salted Butter
 
 ### Fettuccine Alfredo
-- 6 tbsp butter
+- 4 tbsp butter
 - 1 1/2 - Heavy Whipping Cream
 - 12oz - fettucini pasta
 - 1 cup - grated parmesan cheese
