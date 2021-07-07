@@ -1,20 +1,20 @@
 # steak-alfredo
-Fettuccine Alfredo with slices of ribeye. Makes 2 servings.
+Fettuccine Alfredo with slices of ribeye. Makes 4 servings.
 
 ## Ingredients
 
 ### Steaks
 
-- 1x 15oz Ribeye steak
+- 1.5x 15oz Ribeye steak
 - Salt
 - Pepper
 - Salted Butter
 
 ### Fettuccine Alfredo
-- Salted Butter
-- 3/4 cup - Heavy Whipping Cream
-- 6oz - fettucini pasta
-- 1/2 cup - grated parmesan cheese
+- 6 tbsp butter
+- 1 1/2- Heavy Whipping Cream
+- 12oz - fettucini pasta
+- 1 cup - grated parmesan cheese
 
 ## Ribeye Instructions
 
